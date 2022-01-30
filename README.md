@@ -12,7 +12,7 @@ curl --location --request POST 'http://localhost:8080/api/greetings' \
 }'
 ```
 The generated request is similar to the following:
-```http request
+```http
 POST /api/greetings HTTP/1.1
 Content-Type: application/json
 Host: localhost:8080
@@ -23,7 +23,7 @@ Host: localhost:8080
 }
 ```
 The resulting response is similar to the following:
-```http request
+```http
 HTTP/1.1 200 OK
 Content-Type: text/plain;charset=UTF-8
  
@@ -36,12 +36,12 @@ Make a `GET` request to `/api/actuator/logfile`, as shown in the following curl-
 curl --location --request GET 'http://localhost:8080/api/actuator/logfile'
 ```
 The generated request is similar to the following:
-```http request
+```http
 GET /api/actuator/logfile HTTP/1.1
 Host: localhost:8080
 ```
 The resulting response is similar to the following:
-```http request
+```http
 HTTP/1.1 200 OK
 Content-Type: text/plain;charset=UTF-8
 
