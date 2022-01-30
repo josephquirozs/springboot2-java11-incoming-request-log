@@ -23,7 +23,7 @@ Host: localhost:8080
 }
 ```
 The resulting response is similar to the following:
-```http
+```
 HTTP/1.1 200 OK
 Content-Type: text/plain;charset=UTF-8
  
@@ -41,7 +41,7 @@ GET /api/actuator/logfile HTTP/1.1
 Host: localhost:8080
 ```
 The resulting response is similar to the following:
-```http
+```
 HTTP/1.1 200 OK
 Content-Type: text/plain;charset=UTF-8
 
