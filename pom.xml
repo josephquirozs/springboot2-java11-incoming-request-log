@@ -12,7 +12,7 @@
     <artifactId>incoming-request-log</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>spring-incoming-request-log-example</name>
+    <name>springboot2-java11-incoming-request-log</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
