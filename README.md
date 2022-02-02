@@ -2,8 +2,8 @@
 Sample project for log incoming HTTP requests into a file and expose to Actuator
 
 ## Requirements
-* JDK 11
 * Spring Boot 2.6.3 (Embedded)
+* JDK 11
 
 ## Create a greeting
 Make a `POST` request to `/api/greetings`, as shown in the following curl-based example:
