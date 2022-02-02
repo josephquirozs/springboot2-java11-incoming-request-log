@@ -1,6 +1,10 @@
 # spring-incoming-request-log-example
 Sample project for log incoming HTTP requests into a file and expose to Actuator
 
+## Specifications
+* Spring Boot 2.6.3
+* Java 11
+
 ## Create a greeting
 Make a `POST` request to `/api/greetings`, as shown in the following curl-based example:
 ```shell
