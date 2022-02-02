@@ -1,4 +1,4 @@
-# spring-incoming-request-log-example
+# springboot2-java11-incoming-request-log
 Sample project for log incoming HTTP requests into a file and expose to Actuator
 
 ## Specifications
