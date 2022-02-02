@@ -1,7 +1,7 @@
 # springboot2-java11-incoming-request-log
 Sample project for log incoming HTTP requests into a file and expose to Actuator
 
-## Specifications
+## Requirements
 * Spring Boot 2.6.3
 * Java 11
 
