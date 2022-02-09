@@ -2,7 +2,7 @@
 Sample project for log incoming HTTP requests into a file and expose to Actuator
 
 ## Requirements
-* Spring Boot 2.6.3 (Embedded)
+* Spring Boot 2.6.3 (built-in)
 * JDK 11
 
 ## Create a greeting
