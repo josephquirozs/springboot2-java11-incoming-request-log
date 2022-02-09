@@ -13,7 +13,7 @@ curl --location --request POST 'http://localhost:8080/api/greetings' \
 --data-raw '{
     "to_person": "Joseph",
     "from_place": "Perú"
-}' ; echo
+}'
 ```
 The generated request is similar to the following:
 ```http
